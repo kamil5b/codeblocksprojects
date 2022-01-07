@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1609193280 source:e:\tugas dan kerjaan\kerjaann\jalurperkotaan\main.cpp
+	"jalankota.h"
+	<cstdlib>
+
+1609191676 source:e:\tugas dan kerjaan\kerjaann\jalurperkotaan\jalankota.cpp
+	"jalankota.h"
+
+1609191296 e:\tugas dan kerjaan\kerjaann\jalurperkotaan\jalankota.h
+	<iostream>
+

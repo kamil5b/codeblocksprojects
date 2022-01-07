@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1608999907 source:e:\tugas dan kerjaan\kerjaann\novel\main.cpp
+	"novel.h"
+
+1608999776 source:e:\tugas dan kerjaan\kerjaann\novel\menu.cpp
+	"menu.h"
+
+1608996186 e:\tugas dan kerjaan\kerjaann\novel\menu.h
+	"novel.h"
+
+1641009190 e:\tugas dan kerjaan\kerjaann\novel\novel.h
+	<iostream>
+	<cstdlib>
+
+1641320405 source:e:\tugas dan kerjaan\kerjaann\novel\novel.cpp
+	"novel.h"
+

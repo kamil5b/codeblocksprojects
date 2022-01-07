@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1609094704 source:e:\tugas dan kerjaan\kerjaann\graphrizal\main.cpp
+	"rizal.h"
+	<fstream>
+
+1609094685 source:e:\tugas dan kerjaan\kerjaann\graphrizal\rizal.cpp
+	"rizal.h"
+
+1609094686 e:\tugas dan kerjaan\kerjaann\graphrizal\rizal.h
+	<iostream>
+

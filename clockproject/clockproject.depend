@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1633278973 source:e:\tugas dan kerjaan\kerjaann\clockproject\main.cpp
+	"clock.h"
+
+1633278992 e:\tugas dan kerjaan\kerjaann\clockproject\clock.h
+	<iostream>
+

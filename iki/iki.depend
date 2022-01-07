@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1640754965 source:e:\tugas dan kerjaan\kerjaann\iki\main.cpp
+	"bimbangan.h"
+
+1640947285 source:e:\tugas dan kerjaan\kerjaann\iki\bimbangan.cpp
+	"bimbangan.h"
+
+1640755034 e:\tugas dan kerjaan\kerjaann\iki\bimbangan.h
+	<iostream>
+	<cstdlib>
+	<string.h>
+

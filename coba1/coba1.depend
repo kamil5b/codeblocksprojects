@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1607781367 source:d:\sem 3\std\coba1\main.cpp
+	<iostream>
+	"h.h"
+
+1607782134 d:\sem 3\std\coba1\h.h
+	<iostream>
+	<cstddef>
+	<string>
+	<stdlib.h>
+	<conio.h>
+
+1607655527 source:d:\sem 3\std\coba1\b.cpp
+	"h.h"
+
+1607781367 source:e:\tugas dan kerjaan\kerjaann\coba1\main.cpp
+	<iostream>
+	"h.h"
+
+1607782134 e:\tugas dan kerjaan\kerjaann\coba1\h.h
+	<iostream>
+	<cstddef>
+	<string>
+	<stdlib.h>
+	<conio.h>
+
+1608787419 source:e:\tugas dan kerjaan\kerjaann\coba1\b.cpp
+	"h.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1609155609 source:e:\tugas dan kerjaan\kerjaann\salma\main.cpp
+	"bfs.h"
+
+1609196435 source:e:\tugas dan kerjaan\kerjaann\salma\bfs.cpp
+	"bfs.h"
+
+1609155495 e:\tugas dan kerjaan\kerjaann\salma\bfs.h
+	<iostream>
+	<fstream>
+

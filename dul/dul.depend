@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1609231777 source:e:\tugas dan kerjaan\kerjaann\dul\directedbfs.cpp
+	"directedBFS.h"
+
+1609231776 e:\tugas dan kerjaan\kerjaann\dul\directedbfs.h
+	<fstream>
+	<iostream>
+
+1609231798 source:e:\tugas dan kerjaan\kerjaann\dul\main.cpp
+	"directedBFS.h"
+
