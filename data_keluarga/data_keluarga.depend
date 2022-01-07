@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1586776257 source:d:\tugas\data_keluarga\body.cpp
+	"header.h"
+
+1586923680 d:\tugas\data_keluarga\header.h
+	<iostream>
+
+1586923582 source:d:\tugas\data_keluarga\main.cpp
+	"header.h"
+

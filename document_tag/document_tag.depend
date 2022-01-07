@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1586400704 source:d:\tugas\document_tag\main.cpp
+	"header.h"
+
+1586400724 d:\tugas\document_tag\header.h
+	<iostream>
+
+1586401875 source:d:\tugas\document_tag\body.cpp
+	"header.h"
+
+1586401193 source:d:\tugas\document_tag\menu.cpp
+	"header.h"
+

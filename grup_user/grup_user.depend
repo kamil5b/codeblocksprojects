@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1586339951 source:d:\tugas\grup_user\main.cpp
+	"grup_user_header.h"
+
+1586343646 source:d:\tugas\grup_user\menu_body.cpp
+	"grup_user_header.h"
+
+1586339918 d:\tugas\grup_user\grup_user_header.h
+	<iostream>
+
+1586765754 source:d:\tugas\grup_user\grup_user_body.cpp
+	"grup_user_header.h"
+
+1586339952 source:e:\tugas dan kerjaan\tugas\grup_user\main.cpp
+	"grup_user_header.h"
+
+1641036404 e:\tugas dan kerjaan\tugas\grup_user\grup_user_header.h
+	<iostream>
+
+1586343648 source:e:\tugas dan kerjaan\tugas\grup_user\menu_body.cpp
+	"grup_user_header.h"
+

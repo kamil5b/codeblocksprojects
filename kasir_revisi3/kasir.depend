@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1590159691 source:d:\tugas\kasir\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+	<stdbool.h>
+

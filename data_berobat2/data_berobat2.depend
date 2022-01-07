@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1587611296 source:d:\tugas\data_berobat2\main.cpp
+	"header.h"
+
+1587611260 d:\tugas\data_berobat2\header.h
+	<iostream>
+
+1587611798 source:d:\tugas\data_berobat2\body.cpp
+	"header.h"
+

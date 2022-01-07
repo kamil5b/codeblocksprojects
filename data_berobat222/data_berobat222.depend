@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1588081920 source:d:\tugas\data_berobat222\child.cpp
+	"child.h"
+
+1588070719 d:\tugas\data_berobat222\child.h
+	<iostream>
+
+1588081368 source:d:\tugas\data_berobat222\main.cpp
+	"relasi.h"
+	<cstdlib>
+
+1588076636 d:\tugas\data_berobat222\relasi.h
+	<iostream>
+	"child.h"
+	"parent.h"
+
+1588081262 d:\tugas\data_berobat222\parent.h
+	<iostream>
+
+1588084388 source:d:\tugas\data_berobat222\parent.cpp
+	"parent.h"
+
+1588081340 source:d:\tugas\data_berobat222\relasi.cpp
+	"relasi.h"
+

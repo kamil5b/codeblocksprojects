@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1588340250 source:d:\tugas\kontes\juri.cpp
+	"juri.h"
+
+1588340225 d:\tugas\kontes\juri.h
+	<iostream>
+
+1588340355 source:d:\tugas\kontes\main.cpp
+	"login.h"
+
+1588340794 d:\tugas\kontes\login.h
+	<iostream>
+	"nilai.h"
+
+1588329674 d:\tugas\kontes\nilai.h
+	<iostream>
+	"juri.h"
+	"peserta.h"
+
+1588337505 d:\tugas\kontes\peserta.h
+	<iostream>
+
+1588340598 source:d:\tugas\kontes\nilai.cpp
+	"nilai.h"
+
+1588340627 source:d:\tugas\kontes\peserta.cpp
+	"peserta.h"
+

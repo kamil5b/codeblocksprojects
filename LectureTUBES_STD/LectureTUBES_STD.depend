@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1586784361 source:d:\tugas\tp\tp_struktur_data\tubes\lecturetubes_std\main.cpp
+	<iostream>
+	"header.h"
+
+1586784588 source:d:\tugas\tp\tp_struktur_data\tubes\lecturetubes_std\body.cpp
+	<iostream>
+	"header.h"
+
+1586779149 d:\tugas\tp\tp_struktur_data\tubes\lecturetubes_std\header.h
+	<iostream>
+
+1587097750 source:d:\tugas\lecturetubes_std\backend.cpp
+	"header.h"
+
+1587108755 d:\tugas\lecturetubes_std\header.h
+	<iostream>
+	<cctype>
+	<string>
+	<locale>
+	<fstream>
+	<stdlib.h>
+
+1587108994 source:d:\tugas\lecturetubes_std\body.cpp
+	<iostream>
+	"header.h"
+
+1587097879 source:d:\tugas\lecturetubes_std\main.cpp
+	<iostream>
+	"header.h"
+
+1587110238 source:d:\tugas\lecturetubes_std\misc.cpp
+	"header.h"
+
