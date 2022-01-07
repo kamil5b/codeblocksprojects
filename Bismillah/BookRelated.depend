@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1582361322 source:e:\academic work\4\struktur data(2)\tugasprogramkelas\bookrelated\main.cpp
+	<iostream>
+	"book.h"
+
+1582361542 e:\academic work\4\struktur data(2)\tugasprogramkelas\bookrelated\book.h
+	<iostream>
+
+1582361317 source:e:\academic work\4\struktur data(2)\tugasprogramkelas\bookrelated\book.cpp
+	"book.h"
+
+1582556694 source:e:\telkom university\std\tugasprogramkelas\bookrelated\main.cpp
+	<iostream>
+	"book.h"
+
+1582557665 e:\telkom university\std\tugasprogramkelas\bookrelated\book.h
+	<iostream>
+
+1582550909 source:e:\telkom university\std\tugasprogramkelas\bookrelated\book.cpp
+	"book.h"
+
+1582550909 source:e:\telkom university\std\kelas\bookrelated\book.cpp
+	"book.h"
+
+1586438474 e:\telkom university\std\kelas\bookrelated\book.h
+	<iostream>
+
+1587100747 source:c:\users\asus\desktop\bismillah\book.cpp
+	"book.h"
+
+1587015140 c:\users\asus\desktop\bismillah\book.h
+	<iostream>
+
+1587106799 source:c:\users\asus\desktop\bismillah\peminjam.cpp
+	"peminjam.h"
+
+1587106751 c:\users\asus\desktop\bismillah\peminjam.h
+	<iostream>
+
+1587106810 source:c:\users\asus\desktop\bismillah\main.cpp
+	<iostream>
+	"book.h"
+	"relasi.h"
+	"peminjam.h"
+
+1587106763 c:\users\asus\desktop\bismillah\relasi.h
+	<iostream>
+	"book.h"
+	"peminjam.h"
+
+1587015547 source:c:\users\asus\desktop\bismillah\relasi.cpp
+	"relasi.h"
+	"peminjam.h"
+

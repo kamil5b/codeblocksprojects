@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1611417781 source:e:\tugas dan kerjaan\aka\main.cpp
+	"array.h"
+
+1609692768 e:\tugas dan kerjaan\aka\array.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<chrono>
+	<bits/stdc++.h>
+
+1609692259 source:e:\tugas dan kerjaan\aka\array.cpp
+	"array.h"
+

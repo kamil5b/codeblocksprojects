@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1616755413 source:e:\tugas dan kerjaan\ai\main.cpp
+	"geneticAlgorithm.h"
+
+1616577015 e:\tugas dan kerjaan\ai\geneticalgorithm.h
+	<iostream>
+	<cstdlib>
+	<math.h>
+
+1621294174 source:e:\tugas dan kerjaan\ai\geneticalgorithm.cpp
+	"geneticAlgorithm.h"
+
