@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1586595481 source:d:\tugas\paperkeyword\main.cpp
+	"header_paperkeyword.h"
+
+1586595524 d:\tugas\paperkeyword\header_paperkeyword.h
+	<iostream>
+
+1586595627 source:d:\tugas\paperkeyword\body_paperkeyword.cpp
+	"header_paperkeyword.h"
+
+1587268513 source:d:\tugas\paperkeyword\main_1301194387.cpp
+	"header_paperkeyword.h"
+

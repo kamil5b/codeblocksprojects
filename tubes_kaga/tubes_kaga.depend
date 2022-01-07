@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1514140574 source:d:\tugas\tubes_kaga\main.cpp
+	<iostream>
+
+1585122932 source:d:\tugas\tubes_kaga\kamil.cpp
+	"header_kaga.h"
+
+1585122814 d:\tugas\tubes_kaga\header_kaga.h
+	<iostream>
+	<cctype>
+	<string>
+	<locale>
+	<fstream>
+	<stdlib.h>
+

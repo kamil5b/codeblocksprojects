@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1586437076 source:d:\tugas\rezki_bagas\body.cpp
+	"header.h"
+
+1586436611 d:\tugas\rezki_bagas\header.h
+	<iostream>
+
+1586437170 source:d:\tugas\rezki_bagas\main.cpp
+	"header.h"
+

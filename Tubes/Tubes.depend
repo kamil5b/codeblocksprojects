@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1588145205 source:d:\tugas\tubes\main.cpp
+	<iostream>
+	"programmer.h"
+	"project.h"
+	"penugasan.h"
+	"menu.h"
+
+1588144853 d:\tugas\tubes\programmer.h
+	<iostream>
+
+1588144870 d:\tugas\tubes\project.h
+	<iostream>
+
+1588144893 d:\tugas\tubes\penugasan.h
+	<iostream>
+	"project.h"
+	"programmer.h"
+
+1588143816 d:\tugas\tubes\menu.h
+	<iostream>
+	"penugasan.h"
+	"programmer.h"
+	"project.h"
+
+1588145067 source:d:\tugas\tubes\menu.cpp
+	"menu.h"
+
+1588144866 source:d:\tugas\tubes\programmer.cpp
+	"programmer.h"
+
+1588145111 source:d:\tugas\tubes\project.cpp
+	"project.h"
+
+1588145020 source:d:\tugas\tubes\penugasan.cpp
+	"penugasan.h"
+

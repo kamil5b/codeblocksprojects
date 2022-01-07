@@ -1,0 +1,127 @@
+# depslib dependency file v1.0
+1555418456 source:f:\struktur data\tubesandit\fakultas.cpp
+	<iostream>
+	"fakultas.h"
+
+1555418456 f:\struktur data\tubesandit\fakultas.h
+
+1555581656 source:f:\struktur data\tubesandit\main.cpp
+	<iostream>
+	"kampus.h"
+	"fakultas.h"
+	"relasi.h"
+	<cstdlib>
+
+1555581893 source:f:\struktur data\tubesandit\relasi.cpp
+	"relasi.h"
+
+1555580414 source:f:\struktur data\tubesandit\kampus.cpp
+	<iostream>
+	"kampus.h"
+
+1555582668 f:\struktur data\tubesandit\kampus.h
+
+1555582394 f:\struktur data\tubesandit\relasi.h
+	<iostream>
+	"kampus.h"
+	"fakultas.h"
+
+1555878413 source:c:\users\alienware\downloads\tubesandit\tubesandit\fakultas.cpp
+	<iostream>
+	"fakultas.h"
+
+1555855029 c:\users\alienware\downloads\tubesandit\tubesandit\fakultas.h
+
+1556191167 source:c:\users\alienware\downloads\tubesandit\tubesandit\kampus.cpp
+	<iostream>
+	"kampus.h"
+
+1555863513 c:\users\alienware\downloads\tubesandit\tubesandit\kampus.h
+
+1556191938 source:c:\users\alienware\downloads\tubesandit\tubesandit\relasi.cpp
+	"relasi.h"
+
+1555881094 c:\users\alienware\downloads\tubesandit\tubesandit\relasi.h
+	<iostream>
+	"kampus.h"
+	"fakultas.h"
+
+1555886786 source:c:\users\alienware\downloads\tubesandit\tubesandit\main.cpp
+	"Database.h"
+
+1556191405 source:c:\users\alienware\downloads\tubesandit\tubesandit\database.cpp
+	"Database.h"
+
+1555855350 c:\users\alienware\downloads\tubesandit\tubesandit\database.h
+	<iostream>
+	<cstdlib>
+	"kampus.h"
+	"fakultas.h"
+	"relasi.h"
+
+1556205202 source:f:\struktur data\newtubesandit\newtubesandit\tubesandit\database.cpp
+	"Database.h"
+
+1555855350 f:\struktur data\newtubesandit\newtubesandit\tubesandit\database.h
+	<iostream>
+	<cstdlib>
+	"kampus.h"
+	"fakultas.h"
+	"relasi.h"
+
+1555863513 f:\struktur data\newtubesandit\newtubesandit\tubesandit\kampus.h
+
+1555855029 f:\struktur data\newtubesandit\newtubesandit\tubesandit\fakultas.h
+
+1556205197 f:\struktur data\newtubesandit\newtubesandit\tubesandit\relasi.h
+	<iostream>
+	"kampus.h"
+	"fakultas.h"
+
+1555878413 source:f:\struktur data\newtubesandit\newtubesandit\tubesandit\fakultas.cpp
+	<iostream>
+	"fakultas.h"
+
+1556208964 source:f:\struktur data\newtubesandit\newtubesandit\tubesandit\kampus.cpp
+	<iostream>
+	"kampus.h"
+
+1556203390 source:f:\struktur data\newtubesandit\newtubesandit\tubesandit\main.cpp
+	"Database.h"
+
+1556210774 source:f:\struktur data\newtubesandit\newtubesandit\tubesandit\relasi.cpp
+	"relasi.h"
+
+1556390384 source:c:\users\alienware\downloads\new2tubesandit\new2tubesandit\newtubesandit\tubesandit\database.cpp
+	"Database.h"
+
+1556376565 c:\users\alienware\downloads\new2tubesandit\new2tubesandit\newtubesandit\tubesandit\database.h
+	<iostream>
+	<cstdlib>
+	"kampus.h"
+	"fakultas.h"
+	"relasi.h"
+
+1556390259 c:\users\alienware\downloads\new2tubesandit\new2tubesandit\newtubesandit\tubesandit\kampus.h
+
+1556390259 c:\users\alienware\downloads\new2tubesandit\new2tubesandit\newtubesandit\tubesandit\fakultas.h
+
+1556377932 c:\users\alienware\downloads\new2tubesandit\new2tubesandit\newtubesandit\tubesandit\relasi.h
+	<iostream>
+	"kampus.h"
+	"fakultas.h"
+
+1556390844 source:c:\users\alienware\downloads\new2tubesandit\new2tubesandit\newtubesandit\tubesandit\fakultas.cpp
+	<iostream>
+	"fakultas.h"
+
+1556392396 source:c:\users\alienware\downloads\new2tubesandit\new2tubesandit\newtubesandit\tubesandit\kampus.cpp
+	<iostream>
+	"kampus.h"
+
+1556390492 source:c:\users\alienware\downloads\new2tubesandit\new2tubesandit\newtubesandit\tubesandit\main.cpp
+	"Database.h"
+
+1556387713 source:c:\users\alienware\downloads\new2tubesandit\new2tubesandit\newtubesandit\tubesandit\relasi.cpp
+	"relasi.h"
+

@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1587223270 source:c:\users\revan\onedrive\dokumen\tugas besar\penjualan\main.cpp
+	<iostream>
+	"penjualan.h"
+
+1587223280 c:\users\revan\onedrive\dokumen\tugas besar\penjualan\penjualan.h
+	<iostream>
+	<cstdlib>
+	<conio.h>
+
+1587621798 source:d:\tugas\tugas besar\penjualan\barang.cpp
+	"barang.h"
+
+1587613142 d:\tugas\tugas besar\penjualan\barang.h
+	<iostream>
+
+1587621613 source:d:\tugas\tugas besar\penjualan\relasi.cpp
+	"relasi.h"
+	"penjualan.h"
+	"barang.h"
+
+1587620883 d:\tugas\tugas besar\penjualan\relasi.h
+	"barang.h"
+	"penjualan.h"
+	<iostream>
+
+1587612745 d:\tugas\tugas besar\penjualan\penjualan.h
+	<iostream>
+
+1587622371 source:d:\tugas\tugas besar\penjualan\main.cpp
+	<iostream>
+	"penjualan.h"
+	"relasi.h"
+	"barang.h"
+
+1587622402 source:d:\tugas\tugas besar\penjualan\penjualan.cpp
+	"penjualan.h"
+
