@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1609048264 source:e:\tugas dan kerjaan\kerjaann\topik9\main.cpp
+	"film.h"
+
+1608701939 e:\tugas dan kerjaan\kerjaann\topik9\film.h
+	<iostream>
+
+1609049135 source:e:\tugas dan kerjaan\kerjaann\topik9\film.cpp
+	"film.h"
+

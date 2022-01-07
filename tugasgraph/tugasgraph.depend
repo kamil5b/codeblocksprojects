@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1609093383 source:e:\tugas dan kerjaan\kerjaann\tugasgraph\main.cpp
+	"graph.h"
+
+1609093312 source:e:\tugas dan kerjaan\kerjaann\tugasgraph\graph.cpp
+	"GRAPH.h"
+
+1609093258 e:\tugas dan kerjaan\kerjaann\tugasgraph\graph.h
+	<fstream>
+	<iostream>
+

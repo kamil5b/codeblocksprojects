@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1608994167 source:e:\tugas dan kerjaan\kerjaann\waiter\main.cpp
+	"header.h"
+
+1608877338 e:\tugas dan kerjaan\kerjaann\waiter\header.h
+	<iostream>
+
+1608994122 source:e:\tugas dan kerjaan\kerjaann\waiter\header.cpp
+	"header.h"
+

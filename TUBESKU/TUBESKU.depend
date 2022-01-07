@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1608815517 source:d:\praktikum strukdat\tubesku\penulis.cpp
+	"penulis.h"
+	<iostream>
+
+1608812116 d:\praktikum strukdat\tubesku\penulis.h
+	<bits/stdc++.h>
+	<iostream>
+
+1608812116 source:d:\praktikum strukdat\tubesku\main.cpp
+	"penulis.h"
+	<iostream>
+
+1609180193 source:e:\tugas dan kerjaan\kerjaann\tubesku\main.cpp
+	"penulis.h"
+	<iostream>
+
+1609180056 e:\tugas dan kerjaan\kerjaann\tubesku\penulis.h
+	<bits/stdc++.h>
+	<iostream>
+
+1609191536 source:e:\tugas dan kerjaan\kerjaann\tubesku\penulis.cpp
+	"penulis.h"
+	<iostream>
+
